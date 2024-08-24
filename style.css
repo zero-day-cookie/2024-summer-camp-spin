@@ -30,7 +30,7 @@ body{
     border: 15px solid #fde5bd;
     position: relative;
     overflow: hidden;
-    transition: transform 3s;
+    transition: transform 5s;
 }
 
 /* Styles for each slice of the wheel */
